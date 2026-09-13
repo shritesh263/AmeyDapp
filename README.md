@@ -1,6 +1,6 @@
 # BlackBox AI — Privacy-Preserving Training Data Verification
 
-[![CI/CD Pipeline](https://github.com/shritesh263/blackbox-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/shritesh263/blackbox-ai/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/Amey2902/firstcontarct/actions/workflows/ci.yml/badge.svg)](https://github.com/Amey2902/firstcontarct/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests](https://img.shields.io/badge/Tests-13%20Passing-brightgreen.svg)](tests/blackbox-ai.test.ts)
 [![Network](https://img.shields.io/badge/Network-Midnight%20Preprod-6366f1.svg)](https://docs.midnight.network)
@@ -111,7 +111,7 @@ BlackBox AI evaluates the policy privately and generates:
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/shritesh263/blackbox-ai.git
+git clone https://github.com/Amey2902/firstcontarct.git
 cd blackbox-ai
 npm install
 
@@ -300,7 +300,7 @@ npm run demo
 4. **Frontend Build** — Vite production build with artifact copying
 
 ### Status Badges
-[![CI/CD Pipeline](https://github.com/shritesh263/blackbox-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/shritesh263/blackbox-ai/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/Amey2902/firstcontarct/actions/workflows/ci.yml/badge.svg)](https://github.com/Amey2902/firstcontarct/actions/workflows/ci.yml)
 
 ---
 
